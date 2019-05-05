@@ -85,7 +85,7 @@ surf(GaussS)
 
 %% SOR method check point
 load('variables','SOR','SORn1')
-w = 1.2;
+w = 1.1;
 %create the elements for F
 for i = 1:n-1
     for j = 1:n-1
